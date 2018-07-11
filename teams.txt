@@ -4,3 +4,4 @@
 [ GitHub repository link ]
 [ Heroku/Deployment link ]
 
+Deliverable 2: Screenshots are in docs folder as of 7/10/2018.
